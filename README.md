@@ -1,0 +1,2 @@
+# Bounty Bandits Animation Viewer
+Bounty Bandits Animation Viewer is a simple viewer for animated beings in the game Bounty Bandits. Please refer to the [bounty bandits wiki](https://bountybandits.blastedstudios.com) for further information.
